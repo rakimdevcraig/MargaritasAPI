@@ -2,7 +2,7 @@ Margaritas API
 This app lets you find Margarita recipes with the click of a button. We list the name of the drink along with
 the ingredients and directions so if it looks enticing you can try it for yourself!
 
-![pic](img/pic.jpg)
+![pic](pic.jpg)
 
 Link to project:
 
