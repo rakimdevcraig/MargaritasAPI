@@ -4,7 +4,7 @@ the ingredients and directions so if it looks enticing you can try it for yourse
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/MargaritasAPI/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, API
